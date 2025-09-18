@@ -12,9 +12,10 @@ enhance human productivity and decision-making.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sant0-9&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/Sant0-9?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sant0-9?style=social)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant0-9&layout=compact&theme=github_dark&hide_border=true)
+**Focus Areas:** AI Engineering • Full-Stack Development • Multi-Agent Systems
 
 </div>
 
