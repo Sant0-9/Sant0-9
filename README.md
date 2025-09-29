@@ -217,11 +217,14 @@ class Sant0:
 
 <br>
 
-## Random Dev Quote
+## Philosophy
 
 <div align="center">
   
-  [![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+  ```
+  "Why be normal when you can be extraordinary?"
+  - Sant0
+  ```
   
 </div>
 
