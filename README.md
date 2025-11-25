@@ -183,10 +183,10 @@ class Sant0:
 
 ## GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sant0-9&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Santo's github stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant0-9&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="Santo's top languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sant0-9&theme=tokyonight&hide_border=true&stroke=8B5CF6&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="Santo's streak" />
